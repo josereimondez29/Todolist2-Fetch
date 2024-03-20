@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(9, 97, 97);
+}
+h1{
+    text-align: center;
+}
+
+input{
+    background-color: pink;
+    width: 70%;
+}
+
+   /*  You can write your own styles here...
+    
+    
+    ...Or you can use the import command to include 
+    other sylesheets into your bunde as well, e.j:
+    
+    import 'relative/path/to/stylesheet.scss';
+
+*/
